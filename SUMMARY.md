@@ -6,11 +6,7 @@
 * [What is Sunflower Wallet?](intro/what-is-sunflower-wallet/README.md)
   * [Explain like I'm 5](intro/what-is-sunflower-wallet/explain-like-im-5.md)
   * [Explain like I'm 31](intro/what-is-sunflower-wallet/explain-like-im-31.md)
-
-***
-
-* [Wallet Info](wallet-info.md)
-* [Supported Chains and Assets](supported-chains-and-assets.md)
+* [Supported Chains and Assets](intro/supported-chains-and-assets.md)
 
 ## User Guides
 
