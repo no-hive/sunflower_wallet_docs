@@ -33,6 +33,7 @@
   * [Codebase](sunflower-wallet/security/codebase.md)
   * [Protocols](sunflower-wallet/security/protocols.md)
   * [Data Politics](sunflower-wallet/security/data-politics.md)
+* [For Developers](sunflower-wallet/for-developers.md)
 
 ## TEAM BEHIND
 
