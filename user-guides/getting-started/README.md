@@ -1,2 +1,6 @@
+---
+icon: duck
+---
+
 # Getting started
 

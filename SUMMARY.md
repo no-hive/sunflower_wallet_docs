@@ -2,11 +2,21 @@
 
 ## INTRO
 
-* [Welcome!](README.md)
-* [What is Sunflower Wallet?](intro/what-is-sunflower-wallet/README.md)
-  * [Explain like I'm 5](intro/what-is-sunflower-wallet/explain-like-im-5.md)
-  * [Explain like I'm 31](intro/what-is-sunflower-wallet/explain-like-im-31.md)
-* [Supported Chains and Assets](intro/supported-chains-and-assets.md)
+* [Welcome to Sunflower Wallet](README.md)
+
+## What is BTCFi?
+
+* [Explain like I'm 5](what-is-btcfi/explain-like-im-5.md)
+* [Explain like I'm 31](what-is-btcfi/explain-like-im-31.md)
+
+## SUNFLOWER WALLET
+
+* [Supported Chains and Assets](sunflower-wallet/supported-chains-and-assets.md)
+* [Security](sunflower-wallet/security/README.md)
+  * [Audits](sunflower-wallet/security/audits.md)
+  * [Codebase](sunflower-wallet/security/codebase.md)
+  * [Protocols](sunflower-wallet/security/protocols.md)
+  * [Data Politics](sunflower-wallet/security/data-politics.md)
 
 ## User Guides
 
@@ -17,10 +27,16 @@
   * ["Send" Function](user-guides/getting-started/send-function.md)
   * ["Recieve" Function](user-guides/getting-started/recieve-function.md)
   * ["Swap" Function](user-guides/getting-started/swap-function.md)
-* [Analytics Intro](user-guides/analytics-intro.md)
-* [BTCFi Intro](user-guides/btcfi-intro.md)
-* [FAQ](user-guides/faq/README.md)
-  * [How to delete a wallet?](user-guides/faq/how-to-delete-a-wallet.md)
-  * [Where to find a seed prase?](user-guides/faq/where-to-find-a-seed-prase.md)
-  * [How to change wallet theme?](user-guides/faq/how-to-change-wallet-theme.md)
-  * [Do you have a support?](user-guides/faq/do-you-have-a-support.md)
+* [Analytics Intro](user-guides/analytics-intro/README.md)
+  * [Page 1](user-guides/analytics-intro/page-1.md)
+* [BTCFi Intro](user-guides/btcfi-intro/README.md)
+  * [Page 2](user-guides/btcfi-intro/page-2.md)
+* [Other](user-guides/other/README.md)
+  * [How to delete a wallet?](user-guides/other/how-to-delete-a-wallet.md)
+  * [Where to find a seed prase?](user-guides/other/where-to-find-a-seed-prase.md)
+  * [How to change wallet theme?](user-guides/other/how-to-change-wallet-theme.md)
+  * [Do you have a support?](user-guides/other/do-you-have-a-support.md)
+
+## TEAM BEHIND
+
+* [Cape4labs](team-behind/cape4labs.md)
