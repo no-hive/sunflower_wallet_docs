@@ -1,2 +1,6 @@
-# "Swap" Function
+---
+icon: circle-dollar
+---
+
+# Advanced BTCFi Strategies
 

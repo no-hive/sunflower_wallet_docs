@@ -1,2 +1,6 @@
-# "Send" Function
+---
+icon: arrow-right-to-line
+---
+
+# Receiving funds
 

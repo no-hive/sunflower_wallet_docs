@@ -1,3 +1,7 @@
+---
+icon: key-skeleton
+---
+
 # Protocols
 
 The security of third-party protocols integrated into our wallet is not independently verified or audited by our team. We do not assess, validate, or guarantee the safety, reliability, or correctness of these protocols, and their inclusion in the wallet should not be interpreted as an endorsement or security assurance.

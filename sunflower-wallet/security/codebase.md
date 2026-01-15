@@ -1,3 +1,7 @@
+---
+icon: book-open
+---
+
 # Codebase
 
 Our codebase is fully open-source and publicly available on GitHub via the link provided below:&#x20;

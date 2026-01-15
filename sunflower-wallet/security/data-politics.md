@@ -1,3 +1,7 @@
+---
+icon: sunglasses
+---
+
 # Data Politics
 
 At the current stage, we do not collect any user data whatsoever.&#x20;

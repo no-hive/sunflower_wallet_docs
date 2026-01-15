@@ -1,2 +1,6 @@
-# Adding 2nd wallet
+---
+icon: arrow-right-from-line
+---
+
+# Sending funds
 

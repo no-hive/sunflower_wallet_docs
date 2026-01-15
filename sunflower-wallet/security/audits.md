@@ -1,3 +1,7 @@
+---
+icon: eye
+---
+
 # Audits
 
 At the current stage, the wallet **has not yet undergone any external security audits** as it is still under active development. For this reason, it is not recommended to use the application for managing large amounts of funds, and all risks associated with its use are fully assumed by the user.&#x20;
