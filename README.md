@@ -1,5 +1,5 @@
 ---
-icon: sun-bright
+icon: hand-wave
 ---
 
 # Welcome to Sunflower Wallet

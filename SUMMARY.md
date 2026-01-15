@@ -3,11 +3,9 @@
 ## INTRO
 
 * [Welcome to Sunflower Wallet](README.md)
-
-## What is BTCFi?
-
-* [Explain like I'm 5](what-is-btcfi/explain-like-im-5.md)
-* [Explain like I'm 31](what-is-btcfi/explain-like-im-31.md)
+* [What is BTCFi?](intro/what-is-btcfi/README.md)
+  * [Explain like I'm 5](intro/what-is-btcfi/explain-like-im-5.md)
+  * [Explain like I'm 31](intro/what-is-btcfi/explain-like-im-31.md)
 
 ## SUNFLOWER WALLET
 
