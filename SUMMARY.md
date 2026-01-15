@@ -35,3 +35,11 @@
 ## TEAM BEHIND
 
 * [Cape4labs](team-behind/cape4labs.md)
+
+## Download the app
+
+* [For Android](README.md)
+* [For IOS](download-the-app/for-ios.md)
+* [For Chrome](download-the-app/for-chrome.md)
+* [For Edge](download-the-app/for-edge.md)
+* [For Brave](download-the-app/for-brave.md)

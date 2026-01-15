@@ -1,0 +1,6 @@
+---
+icon: edge
+---
+
+# For Edge
+
