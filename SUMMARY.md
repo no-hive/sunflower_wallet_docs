@@ -36,8 +36,8 @@
 
 ## Download the app
 
-* [For Android](README.md)
-* [For IOS](download-the-app/for-ios.md)
-* [For Chrome](download-the-app/for-chrome.md)
-* [For Edge](download-the-app/for-edge.md)
-* [For Brave](download-the-app/for-brave.md)
+* [For Android](download-the-app/for-android.md)
+* [For IOS (soon)](download-the-app/for-ios-soon.md)
+* [For Chrome (soon)](download-the-app/for-chrome-soon.md)
+* [For Edge (soon)](download-the-app/for-edge-soon.md)
+* [For Brave (soon)](download-the-app/for-brave-soon.md)

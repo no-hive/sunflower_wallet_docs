@@ -4,18 +4,22 @@ icon: code
 
 # For Developers
 
-**You want to use wallet for testing:**&#x20;
+**You want to use the wallet for testing:**
 
-Unfortunately, our wallet does not offer any tooling for blockchain developers. The main concept of our wallet is to built the area for crypto new comers to explore. That's why you'd better use any other wallet or you can make a fork of our wallet to add some tooling, we will love to see it and we will defntely support it.
+Unfortunately, our wallet does not offer any tooling for blockchain developers. The main concept of our wallet is to build an environment for crypto newcomers to explore the ecosystem. That’s why we recommend using another wallet for testing purposes. Alternatively, you can fork our wallet and add your own tooling—we’d love to see that and will definitely support your effort.
 
-**You want to add your protocol to the wallet:**&#x20;
+**You want to add your protocol to the wallet:**
 
-If you have oyur protocol deployed on Stacks Mainnet, all you need to do is to drop a messge to and we will integrate your protocol as soon as we 1. check it is supported by some Stacks instances / Stacks community 2. works fully on-chain 3. has at least some traction of being safe or audited.&#x20;
+If your protocol is deployed on the Stacks Mainnet, all you need to do is send us a message and we will integrate your protocol as soon as we:
 
-**You want to become a part of the team:**
+1. verify that it is supported by some Stacks instances or the Stacks community,
+2. confirm that it works fully on-chain,
+3. see that it has some traction and is considered safe or audited.
 
-drop a message to no-hive.
+**You want to become part of the team:**
 
-**You want to support the project with your ideas / code review:**
+This project is built and supported by [cape4labs.md](../team-behind/cape4labs.md "mention") team. Feel free to message [@no\_\_hive](https://x.com/no__hive) to ask whether there are any open positions. The chances of having roles available are quite small, but we would love to hear from you anyway.
 
-make a commit to anything in our repos from [codebase.md](security/codebase.md "mention") . we will love to see it! and maybe it will open paths for some deeper partnership.&#x20;
+**You want to support the project with your ideas or code review:**
+
+Make a commit to any of our repositories - [codebase.md](security/codebase.md "mention") -  we’d really appreciate your support!&#x20;

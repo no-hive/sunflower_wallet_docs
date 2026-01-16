@@ -2,7 +2,7 @@
 icon: hand-wave
 ---
 
-# Welcome to Sunflower Wallet
+# Welcome!
 
 Sunflower Wallet is the ultimate BTCFi mobile wallet built for user-friendly access to Bitcoin DeFi.
 
@@ -10,15 +10,8 @@ Sunflower Wallet is the ultimate BTCFi mobile wallet built for user-friendly acc
 
 {% updates format="full" %}
 {% update date="2026-02-01" %}
-## We are in search of Angel Investors.
+## We are in search of Angel Investor.
 
-Starting with Spring 2026 we are in search of Angel Investments for our project. We want to find someone who will bring its ideas, its expertise and its resources to bring the best ever BTCFi wallet to life.
-{% endupdate %}
-
-{% update date="2025-12-10" %}
-## Receive DeGrants from Stacks Foundation - ✔️
-
-We have finished our first big step - the grant from Stacks Foundation. \
-Here is the link to all the milestones we completed during it. \[Github]
+We’ve completed our first major milestone — securing a grant from the Stacks Foundation (you can find it here - \[github]). Now, we’re looking for an angel investor to take our project to the next level.
 {% endupdate %}
 {% endupdates %}

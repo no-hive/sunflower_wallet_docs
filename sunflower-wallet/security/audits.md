@@ -8,6 +8,4 @@ At the current stage, the wallet **has not yet undergone any external security a
 
 However, in the near future, our primary focus is on obtaining an external security audit, after which we plan to release the application to the official App Store and Google Play.
 
-
-
-Add block with the ability to sign up for news.
+#### &#x20;Sign up to know when we'll have first external audit  - <a href="https://audata.gitbook.io/sunflower-wallet/" class="button primary" data-icon="bullhorn">SIGN UP FOR NEWS</a>
