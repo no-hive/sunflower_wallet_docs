@@ -16,8 +16,8 @@ Hi there! If you are really new to crypto please start with this guide:
 
 #### Beginner tutoirals:&#x20;
 
-{% content-ref url="creating-a-wallet/" %}
-[creating-a-wallet](creating-a-wallet/)
+{% content-ref url="creating-a-wallet.md" %}
+[creating-a-wallet.md](creating-a-wallet.md)
 {% endcontent-ref %}
 
 It will teach you how to:
