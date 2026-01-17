@@ -1,5 +1,9 @@
 ---
 icon: sunglasses
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/uwwAxNzQD0LmKPsJMAHa/sunflower-wallet/security/data-politics
 ---
 
 # Data Politics
