@@ -18,8 +18,8 @@ The other symbol we might use is a leaf (🌱). That's how you can indicate that
 
 **Below, we provide a table containing links to the documentation of all projects integrated into our wallet.** There, you can review each project’s security practices directly and independently decide whether you wish to allocate your funds to them or not:
 
-| Protocol Name  | Documentation |
-| -------------- | ------------- |
-|                |               |
-|                |               |
-|                |               |
+| Protocol Name    | Documentation                                                                      |
+| ---------------- | ---------------------------------------------------------------------------------- |
+| ⭐️ Stacking DAO  | [https://docs.stackingdao.com](https://docs.stackingdao.com/stackingdao)           |
+| ⭐️ Zest Protocol | [https://docs.zestprotocol.com](https://docs.zestprotocol.com/)                    |
+| ⭐️ BitFlow       | [https://docs.bitflow.finance](https://docs.bitflow.finance/bitflow-documentation) |
