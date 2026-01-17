@@ -1,5 +1,5 @@
 ---
-icon: circle
+icon: circle-chevron-right
 metaLinks:
   alternates:
     - >-

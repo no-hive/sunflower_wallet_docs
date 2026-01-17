@@ -10,10 +10,10 @@
 ## SUNFLOWER WALLET
 
 * [Getting started](sunflower-wallet/getting-started/README.md)
-  * [Creating a wallet](sunflower-wallet/getting-started/creating-a-wallet.md)
-  * [Receiving funds](sunflower-wallet/getting-started/receiving-funds.md)
-  * [Sending funds](sunflower-wallet/getting-started/sending-funds.md)
-  * [Making a swap](sunflower-wallet/getting-started/making-a-swap.md)
+  * [Creating a wallet](sunflower-wallet/getting-started/creating-a-wallet/README.md)
+    * [Receiving funds](sunflower-wallet/getting-started/creating-a-wallet/receiving-funds.md)
+    * [Sending funds](sunflower-wallet/getting-started/creating-a-wallet/sending-funds.md)
+    * [Making a swap](sunflower-wallet/getting-started/creating-a-wallet/making-a-swap.md)
   * [BTCFi Intro](sunflower-wallet/getting-started/btcfi-intro.md)
   * [Analytics Intro](sunflower-wallet/getting-started/analytics-intro.md)
   * [Advanced BTCFi Strategies](sunflower-wallet/getting-started/advanced-btcfi-strategies.md)

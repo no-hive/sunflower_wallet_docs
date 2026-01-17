@@ -8,7 +8,7 @@ metaLinks:
 
 # Explain like I'm 5
 
-#### If you feel more like 31 than 5 when it comes to blockchain knowaladge, you are expected to read the next article - [explain-like-im-31.md](explain-like-im-31.md "mention"). Otherwise, let's start!
+#### <mark style="color:$info;">If you feel more like 31 than 5 when it comes to blockchain knowaladge, you are expected to read the next article -</mark> [explain-like-im-31.md](explain-like-im-31.md "mention")<mark style="color:$info;">. Otherwise, let's start!</mark>
 
 **Imagine you have a piggy bank where you keep your coins.** You put money inside, and it stays there in your closet until you take it out. The money is safe and still yours, but it doesn’t do anything — it’s just sleeping and waiting.
 

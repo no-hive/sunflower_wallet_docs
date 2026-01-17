@@ -1,5 +1,5 @@
 ---
-icon: plus
+icon: circle-plus
 metaLinks:
   alternates:
     - >-
