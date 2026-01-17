@@ -8,7 +8,7 @@ metaLinks:
 
 # For Developers
 
-**You want to use the wallet for testing:**
+**You want to use the wallet for on-chain testing / development:**
 
 Unfortunately, our wallet does not offer any tooling for blockchain developers. The main concept of our wallet is to build an environment for crypto newcomers to explore the ecosystem. That’s why we recommend using another wallet for testing purposes. Alternatively, you can fork our wallet and add your own tooling—we’d love to see that and will definitely support your effort.
 

@@ -13,8 +13,8 @@ Sunflower Wallet is the ultimate BTCFi mobile wallet built for user-friendly acc
 
 {% updates format="full" %}
 {% update date="2026-02-01" %}
-## We are in search of Angel Investor.
+## We are in search of Angel Investor!
 
-We’ve completed our first major milestone — securing a grant from the Stacks Foundation (you can find it here - \[github]). Now, we’re looking for an angel investor to take our project to the next level.
+While we are still completing a grant from the Stacks Foundation ([github](https://github.com/stacksgov/decentralized-grants/issues/66)), we’re already looking for an angel investor to take our project to the next level. It can be youг - just drop a message to cape4labs@proton.me.
 {% endupdate %}
 {% endupdates %}
