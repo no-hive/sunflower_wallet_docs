@@ -13,7 +13,7 @@ Sunflower Wallet is the ultimate BTCFi mobile wallet built for user-friendly acc
 
 ***
 
-<h4 align="center">SUNFLOWER WALLET NEWS 📣</h4>
+#### SUNFLOWER WALLET NEWS 📣
 
 {% updates format="full" %}
 {% update date="2026-01-18" %}
