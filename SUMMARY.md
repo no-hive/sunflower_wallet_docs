@@ -19,16 +19,16 @@
 
 ## TUTORIALS
 
-* [Getting started](tutorials/getting-started.md)
-* [BTCFi Intro](tutorials/btcfi-intro.md)
-* [Creating a wallet](tutorials/creating-a-wallet.md)
-* [Analytics Intro](tutorials/analytics-intro.md)
+* [Getting started](tutorials/getting-started/README.md)
+  * [Creating a wallet](tutorials/getting-started/creating-a-wallet.md)
+* [BTCFi Guide](tutorials/btcfi-guide.md)
+* [Analytics Guide](tutorials/analytics-guide.md)
 * [Advanced BTCFi Strategies](tutorials/advanced-btcfi-strategies.md)
-* [Other](tutorials/other/README.md)
-  * [How to delete a wallet?](tutorials/other/how-to-delete-a-wallet.md)
-  * [Where to find a seed prase?](tutorials/other/where-to-find-a-seed-prase.md)
-  * [How to change wallet theme?](tutorials/other/how-to-change-wallet-theme.md)
-  * [Do you have a support?](tutorials/other/do-you-have-a-support.md)
+* [FAQ](tutorials/faq/README.md)
+  * [How to delete a wallet?](tutorials/faq/how-to-delete-a-wallet.md)
+  * [Where to find a seed prase?](tutorials/faq/where-to-find-a-seed-prase.md)
+  * [How to change wallet theme?](tutorials/faq/how-to-change-wallet-theme.md)
+  * [Do you have a support?](tutorials/faq/do-you-have-a-support.md)
 
 ## Download the app
 

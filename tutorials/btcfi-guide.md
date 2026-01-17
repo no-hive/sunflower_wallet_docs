@@ -1,11 +1,11 @@
 ---
-icon: circle-chevron-right
+icon: scrubber
 metaLinks:
   alternates:
     - >-
       https://app.gitbook.com/s/uwwAxNzQD0LmKPsJMAHa/sunflower-wallet/getting-started/btcfi-intro
 ---
 
-# BTCFi Intro
+# BTCFi Guide
 
 The BTCFi guide is coming soon!

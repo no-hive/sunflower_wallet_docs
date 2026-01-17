@@ -3,7 +3,7 @@ description: >-
   On this page you can find the navigation for tutorials of three levels:
   Beginner, Middle and Advanced. Scroll to find most sutable education content
   for you!
-icon: duck
+icon: circle
 metaLinks:
   alternates:
     - >-
@@ -30,14 +30,14 @@ It will teach you how to:
 
 Start this tutorial if you feel like ready to dive into BTCFi options you can earn from:&#x20;
 
-{% content-ref url="btcfi-intro.md" %}
-[btcfi-intro.md](btcfi-intro.md)
+{% content-ref url="../btcfi-guide.md" %}
+[btcfi-guide.md](../btcfi-guide.md)
 {% endcontent-ref %}
 
 Start this tutorial if you want to always your funds and foresee possible yearly earnings:&#x20;
 
-{% content-ref url="analytics-intro.md" %}
-[analytics-intro.md](analytics-intro.md)
+{% content-ref url="../analytics-guide.md" %}
+[analytics-guide.md](../analytics-guide.md)
 {% endcontent-ref %}
 
 ***
@@ -46,6 +46,6 @@ Start this tutorial if you want to always your funds and foresee possible yearly
 
 Start this tutorial if you are sooo ready for the new economy that you want to be educated:&#x20;
 
-{% content-ref url="advanced-btcfi-strategies.md" %}
-[advanced-btcfi-strategies.md](advanced-btcfi-strategies.md)
+{% content-ref url="../advanced-btcfi-strategies.md" %}
+[advanced-btcfi-strategies.md](../advanced-btcfi-strategies.md)
 {% endcontent-ref %}

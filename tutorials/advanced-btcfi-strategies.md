@@ -1,5 +1,5 @@
 ---
-icon: circle-dollar
+icon: circle-plus
 metaLinks:
   alternates:
     - >-
